@@ -3,3 +3,10 @@
 __pycache__/
 
 *.png
+
+# Trained Models
+Assignment_3/all_models/
+Assignment_3/lr_models/
+
+#Submission files
+*.zip
